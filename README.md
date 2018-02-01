@@ -1,2 +1,2 @@
 # JS_16
-сервис CSS generator
+Сервис CSS generator
